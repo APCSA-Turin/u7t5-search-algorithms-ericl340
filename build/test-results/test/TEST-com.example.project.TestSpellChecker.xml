@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.project.TestSpellChecker" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-02-14T14:12:50" hostname="codespaces-3cfd82" time="0.905">
+<testsuite name="com.example.project.TestSpellChecker" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-02-23T05:10:08" hostname="codespaces-3cfd82" time="0.849">
   <properties/>
-  <testcase name="testLinearSearchInList()" classname="com.example.project.TestSpellChecker" time="0.011"/>
-  <testcase name="testBinarySearchInList2()" classname="com.example.project.TestSpellChecker" time="0.001"/>
-  <testcase name="testBinarySearchNotInList()" classname="com.example.project.TestSpellChecker" time="0.006"/>
-  <testcase name="testLinearSearchNotInList()" classname="com.example.project.TestSpellChecker" time="0.014"/>
-  <testcase name="testBinarySearchInList()" classname="com.example.project.TestSpellChecker" time="0.001"/>
+  <testcase name="testLinearSearchInList()" classname="com.example.project.TestSpellChecker" time="0.01"/>
+  <testcase name="testBinarySearchInList2()" classname="com.example.project.TestSpellChecker" time="0.003"/>
+  <testcase name="testBinarySearchNotInList()" classname="com.example.project.TestSpellChecker" time="0.004"/>
+  <testcase name="testLinearSearchNotInList()" classname="com.example.project.TestSpellChecker" time="0.012"/>
+  <testcase name="testBinarySearchInList()" classname="com.example.project.TestSpellChecker" time="0.002"/>
   <system-out><![CDATA[
 dictionary.txt file imported successfully!
 -- LINEAR SEARCH: Number of words checked (loop iterations): 44357
